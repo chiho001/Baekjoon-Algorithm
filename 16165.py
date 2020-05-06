@@ -1,3 +1,4 @@
+#테스트
 N,M = map(int, input().split())
 
 team_member, member_team = {}, {}
